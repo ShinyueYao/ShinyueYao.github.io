@@ -29,3 +29,7 @@ Pubications and Preprints
 ======
 Upcoming...
 
+You can find my CV here: [XX's Curriculum Vitae](../assets/CV.pdf).
+
+[Email](xinyue_yao@outlook.com) / [Github](https://github.com/shinyueyao) / [Wechat](../images/wechat.jpg) 
+
