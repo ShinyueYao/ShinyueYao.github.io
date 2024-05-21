@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a third year undergraduate student from [School of CSE](http://www.cse.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/). My research interest includes robotic perception and planning, embodied intelligence and robot vision.
 
-I am very fortunate to be advised by [Prof. Yong Liu](https://person.zju.edu.cn/en/yongliu) of [APRIL Lab](https://april.zju.edu.cn/), Zhejiang University. I'm also doing a remote research [AI4CE Lab](https://ai4ce.github.io/) of New York University, advised by [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng).
+I am very fortunate to be advised by [Prof. Yong Liu](https://person.zju.edu.cn/en/yongliu) of [APRIL Lab](https://april.zju.edu.cn/), Zhejiang University. I'm also doing a remote research at [AI4CE Lab](https://ai4ce.github.io/) of New York University, advised by [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng).
 
 News
 ======
