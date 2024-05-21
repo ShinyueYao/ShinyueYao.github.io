@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of CSE](http://www.cse.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a third year undergraduate student from [School of CSE](http://www.cse.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/). My research interest includes robotic perception and planning, embodied intelligence and robot vision.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Yong Liu](https://person.zju.edu.cn/en/yongliu) of [April Lab](https://april.zju.edu.cn/), Zhejiang University. 
 
 News
 ======
