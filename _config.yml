@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xinyue Yao / Site Title"
+title                    : "Xinyue Yao's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Xinyue Yao"
 description              : &description "third-year UG student in CSE @Zhejiang University"
