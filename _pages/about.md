@@ -31,5 +31,5 @@ Upcoming...
 
 You can find my CV [HERE](../assets/CV.pdf).
 
-[Email](xinyue_yao@outlook.com) / [Github](https://github.com/shinyueyao) / [Wechat](../images/wechat.png) 
+[Email](mailto:xinyue_yao@outlook.com) / [Github](https://github.com/shinyueyao) / [Wechat](../images/wechat.png) 
 
