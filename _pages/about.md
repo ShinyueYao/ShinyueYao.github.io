@@ -11,12 +11,10 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 About me
 ======
-I'm a third year undergraduate student from [School of CSE](https://cse.zju.edu.cn), [Zhejiang University](https://www.zju.edu.cn/english/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a third year undergraduate student from [School of CSE](http://www.cse.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
-                        
-原文链接：https://blog.csdn.net/qd1813100174/article/details/128604858
 
 For more info
 ------
