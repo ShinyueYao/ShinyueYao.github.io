@@ -20,11 +20,7 @@ Research Experience
   * Duties includes: Developping LLM for robotic arm, focusing in task planning
   * Supervisor: Professor Yong Liu
   * Duration: more than 6 months(expected)
-* Spring 2024: Research Assistant
-  * New York University
-  * Duties included: 3DGS representation experiment
-  * Supervisor: Professor Chen Feng 
-  * Duration: more than 6 months(expected)
+
 * Fall 2023: Research Assistant
   * Zhejiang University
   * Duties included: LiDAR fusion algorithm implementation on UAV
