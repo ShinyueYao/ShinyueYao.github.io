@@ -7,25 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of CSE](http://www.cse.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/). My research interest includes robotic perception and planning, embodied intelligence and robot vision.
+I'm a fourth year undergraduate student from [School of CSE](http://www.cse.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/). My research interest includes robotic perception and planning, embodied intelligence and robot vision.
 
-I am very fortunate to be advised by [Prof. Yong Liu](https://person.zju.edu.cn/en/yongliu) of [APRIL Lab](https://april.zju.edu.cn/), Zhejiang University. I'm also doing a remote research at [AI4CE Lab](https://ai4ce.github.io/) of New York University, advised by [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng).
+I am very fortunate to be advised by [Prof. Yong Liu](https://person.zju.edu.cn/en/yongliu) of [APRIL Lab](https://april.zju.edu.cn/), Zhejiang University. I will join [Gorilla Lab]() of [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), advised by [Prof. Kui jia](http://kuijia.site/).
 
 News
 ======
-Upcoming...
+[22/6] I am exited to join Gorilla Lab at CUHK-Shenzhen 25fall !
 
 ---
 
 Experience
 ======
+Gorilla Lab, New York Univerity
+
+**Research Intern**, Winter 2024-
+
 APRIL Lab, Zhejiang University
 
 **Research Intern**, Mars 2024-Present
 
-AI4CE Lab, New York Univerity
-
-**Research Intern**, April 2024-Present
 
 ---
 
