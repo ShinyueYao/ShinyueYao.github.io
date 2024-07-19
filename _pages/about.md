@@ -19,7 +19,7 @@ News
 
 Experience
 ======
-Gorilla Lab, New York Univerity
+Gorilla Lab, The Chinese Univerity of Hong Kong, Shenzhen
 
 **Research Intern**, Winter 2024-
 
