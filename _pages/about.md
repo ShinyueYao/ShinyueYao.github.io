@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Prof. Yong Liu](https://person.zju.edu.cn/
 
 News
 ======
-[22/6] I am exited to join Gorilla Lab at CUHK-Shenzhen 25fall !
+[22/6/2024] I am exited to join Gorilla Lab at CUHK-Shenzhen 25fall !
 
 ---
 
