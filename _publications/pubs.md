@@ -1,1 +1,0 @@
-You can also find all my pubs on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=ZOf_esUAAAAJ)
