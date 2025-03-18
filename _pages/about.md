@@ -30,8 +30,9 @@ APRIL Lab, Zhejiang University
 
 ---
 
-Pubications and Preprints
+Selected Pubications and Preprints
 ======
+
 ---
 title: "Paper Title Number 1"
 collection: publications
@@ -49,8 +50,7 @@ The contents above will be part of a list of publications, if the user clicks th
 
 You can also find all my pubs on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=ZOf_esUAAAAJ)
 
----
-=====
+
 You can find my CV [HERE](../assets/CV.pdf).
 
 [Email](mailto:xinyue_yao@outlook.com) / [Github](https://github.com/shinyueyao) / [Wechat](../images/wechat.png) 
